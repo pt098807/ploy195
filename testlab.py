@@ -1,2 +1,6 @@
 print('Hello world!')
 print('phat')
+print('phat')
+print('phat')
+print('phat')
+print('phat')
